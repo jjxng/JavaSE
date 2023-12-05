@@ -14,9 +14,9 @@ class Dog {
 
 class Jindo extends Dog {
 	
-	public void bark() {
-		
-	}
+//	public void bark() {
+//		
+//	}
 	
 }
 public class ExtendsClass06 {
